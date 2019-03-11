@@ -17,4 +17,3 @@ Nevertheless, you can get it from https://www.kaggle.com/c/LANL-Earthquake-Predi
 ### Who do I talk to? ###
 
 Pol Monroig
- 
