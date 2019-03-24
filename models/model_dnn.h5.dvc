@@ -1,7 +1,7 @@
-md5: 51009a2c69cffb5da3cb23fcf7f5ed47
+md5: 5969f6d53a742765ca81b12b1ec029d6
 outs:
 - cache: true
-  md5: 6fb50d6fe84a9bf59aff0be669936ccb
+  md5: a98df037901022d85883dc849a09a20c
   metric: false
   path: model_dnn.h5
 wdir: .

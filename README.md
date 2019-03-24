@@ -11,7 +11,7 @@ This repository was created to save the developement of a machine algorithm that
 
 ### Where can I get the dataset? ###
 
-Unfortunately the training and testing dataset is too big, thus it is not uploaded here.
+Unfortunately the original training and testing dataset is too big, thus it is not uploaded here.
 Nevertheless, you can get it from https://www.kaggle.com/c/LANL-Earthquake-Prediction
 
 ### Who do I talk to? ###
