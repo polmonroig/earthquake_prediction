@@ -1,0 +1,7 @@
+md5: 8dd1bd694afdcaef1496bb241df3d319
+outs:
+- cache: true
+  md5: 3e4833c7acafbd8d60a5c3dd7c824f46
+  metric: false
+  path: model_ada_clf.pkl
+wdir: .

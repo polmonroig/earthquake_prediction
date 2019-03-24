@@ -1,7 +1,7 @@
-md5: f73810ae618d67a39024d6b8af24923c
+md5: 54e30cad2ad0872b8c1472c07f59c8e9
 outs:
 - cache: true
-  md5: 46308f14af808e2932a82947719ffd30
+  md5: 8ea515b91aadd2f0ebf0f6547ef0b97b
   metric: false
   path: model_rfr.pkl
 wdir: .
