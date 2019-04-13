@@ -1,13 +1,17 @@
 # ML Earthquake Prediction #
 
-This repository was created to save the developement of a machine algorithm that solves the LANL Earthquake Prediction kaggle research contest
+This repository was created to save the developement of a machine learning algorithm that solves the LANL Earthquake Prediction kaggle research contest
 
 ### Prerequisites ###
 
-    python=3.6
+    python>=3.7
     numpy>=1.16.2
     pandas>=0.24.1
     matplotlib>=3.0.2
+    tensorflow-gpu>=2.0.0a0
+    scipy>=1.1.0
+    scikit-learn>=0.20.3
+    
 
 ### Where can I get the dataset? ###
 
