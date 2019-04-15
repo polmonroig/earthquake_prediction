@@ -1,6 +1,6 @@
 # ML Earthquake Prediction #
 
-This repository was created to save the developement of a machine learning algorithm that solves the LANL Earthquake Prediction kaggle research contest
+This repository was created to save the developement of a machine learning algorithm that solves the LANL Earthquake Prediction kaggle research contest. The best score I achieved in the contest using a stacked ensemble was 1.588(MAE).
 
 ### Prerequisites ###
 
