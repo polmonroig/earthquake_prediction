@@ -2,6 +2,8 @@
 
 This repository was created to save the developement of a machine learning algorithm that solves the LANL Earthquake Prediction kaggle research contest. The best score I achieved in the contest using a stacked ensemble was 1.588(MAE).
 
+![Alt text](images/header.png?raw=true "Header")
+
 ### Prerequisites ###
 
     python>=3.7
