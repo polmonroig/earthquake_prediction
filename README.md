@@ -1,4 +1,4 @@
-# ML Earthquake Prediction #
+# Earthquake Prediction #
 
 Earthquakes disasters have been around in all our history, it would be great if we could the time ttf of an earthquake given 
 the electromagnetic singal that emits long before its appearance. A good prediction would help us prevent and avoid a lot 
